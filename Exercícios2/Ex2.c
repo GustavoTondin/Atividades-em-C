@@ -13,7 +13,7 @@ int main(){
                 scanf("%f",&cm);
 
         conv = cm * pl;
-        conv2 = (cm + 10) * pl; 
+        conv2 = (cm + 10) * pl;  /* Como o professor ainda nã havia ensinado o comando "For" tive que fazer desta forma :) "*/
         conv3 = (cm + 20) * pl;
         conv4 = (cm + 30) * pl;
         conv5 = (cm + 40) * pl;
