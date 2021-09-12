@@ -5,7 +5,7 @@ Para idade inferior a 5, deverá mostrar mensagem.*/
 
 int main(){
 
-        int idade;          /* Exercicio 5 feito com if/else */
+        int idade;          
 
             printf("Qual a idade do nadador?\n");
                 scanf("%d",&idade);
